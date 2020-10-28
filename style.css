@@ -6,7 +6,7 @@
 
 .modal{
     height: 200px;
-    width: 400px;
+    width: 200px;
     background-color: black;
     color: white;
     position: absolute;
@@ -15,6 +15,7 @@
     font-size: 2em;
     line-height: 200px;
     text-align: center;
+    font-size: 2em;
 }
 
 .modal:hover{
