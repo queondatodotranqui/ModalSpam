@@ -22,6 +22,7 @@ window.addEventListener('load', ()=>{
                 modal.style.left = positionLeft + 'px';
                 modal.style.backgroundColor = colores[colorFondo];
                 modal.style.border = '2px solid white';
+                modal.innerHTML = i++;
         
                 body.appendChild(modal);
         
