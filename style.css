@@ -16,3 +16,16 @@
     line-height: 200px;
     text-align: center;
 }
+
+.modal:hover{
+    box-shadow: 10px 5px 5px rgba(116, 116, 116, 0.767);
+}
+
+#stop{
+    top: 50px;
+    left: 50px;
+    height: 200px;
+    width: 200px;
+    z-index: 1000;
+    border-radius: 50%;
+}
